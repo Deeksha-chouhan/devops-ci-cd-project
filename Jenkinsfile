@@ -27,6 +27,5 @@ pipeline {
                 sh 'docker run -d -p 8082:80 --name devops-container devops-webapp'
             }
         }
-
     }
 }
