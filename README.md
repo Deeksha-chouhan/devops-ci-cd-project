@@ -6,14 +6,14 @@
 - Docker
 - GitHub
 
-## Jenkins Build Success
+## GitHub Repository
 
-![Build](screenshots/jenkins-success.png)
+![GitHub Repository](github-repo.png)
 
 ## Pipeline View
 
-![Pipeline](screenshots/pipeline-view.png)
+![Pipeline View](pipeline-view.png)
 
-## Console Output
+## Project Output
 
-![Console](screenshots/console-output.png)
+![Project Output](project-output.png)
