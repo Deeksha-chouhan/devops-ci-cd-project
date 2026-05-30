@@ -1,6 +1,14 @@
+# DevOps CI/CD Project
+
+## Technologies Used
+
+- Jenkins
+- Docker
+- GitHub
+
 ## Jenkins Build Success
 
-![Jenkins Build](screenshots/jenkins-success.png)
+![Build](screenshots/jenkins-success.png)
 
 ## Pipeline View
 
